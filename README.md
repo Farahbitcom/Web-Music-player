@@ -26,18 +26,6 @@ CSS3 – Used for styling, layout design, and responsiveness
 
 JavaScript – Handles audio playback, playlist logic, and user interactions
 
-📁 Project Structure
-Web Music Player/
-│
-├── music player.html
-├── music player.css
-├── music player.js
-├── songs/
-│   ├── song1.mp3
-│   ├── song2.mp3
-│   └── song3.mp3
-└── README.md
-
 ▶️ How to Use
 
 Clone the repository or download the ZIP file
